@@ -5,6 +5,26 @@
       "path": "示例/Charts演示/高级图表示例.md"
     },
     {
+      "basename": "README",
+      "path": "示例/Charts演示/README.md"
+    },
+    {
+      "basename": "习惯记录1",
+      "path": "示例/Charts演示/习惯记录1.md"
+    },
+    {
+      "basename": "测试数据2",
+      "path": "示例/Charts演示/测试数据2.md"
+    },
+    {
+      "basename": "习惯记录3",
+      "path": "示例/Charts演示/习惯记录3.md"
+    },
+    {
+      "basename": "DB Folder：制作Notion数据库",
+      "path": "Obsidian设置/Community plugins/DB Folder：制作Notion数据库.md"
+    },
+    {
       "basename": "测试数据5",
       "path": "示例/Charts演示/测试数据5.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "目录",
       "path": "Templates/目录.md"
-    },
-    {
-      "basename": "测试数据2",
-      "path": "示例/Charts演示/测试数据2.md"
     },
     {
       "basename": "测试数据3",
@@ -105,16 +121,8 @@
       "path": "示例/Charts演示/基础图表示例.md"
     },
     {
-      "basename": "README",
-      "path": "示例/Charts演示/README.md"
-    },
-    {
       "basename": "Charts：制作图表",
       "path": "Obsidian设置/Community plugins/Charts：制作图表.md"
-    },
-    {
-      "basename": "DB Folder：制作Notion数据库",
-      "path": "Obsidian设置/Community plugins/DB Folder：制作Notion数据库.md"
     },
     {
       "basename": "快速捕获想法",
@@ -191,10 +199,6 @@
     {
       "basename": "Files and links",
       "path": "Obsidian设置/Files and links.md"
-    },
-    {
-      "basename": "General",
-      "path": "Obsidian设置/General.md"
     }
   ],
   "omittedPaths": [],
