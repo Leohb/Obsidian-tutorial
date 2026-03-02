@@ -1,6 +1,114 @@
 {
   "recentFiles": [
     {
+      "basename": "带图片的示例笔记",
+      "path": "示例/Meta Bind演示/Other/示例笔记/带图片的示例笔记.md"
+    },
+    {
+      "basename": "带嵌入的示例笔记",
+      "path": "示例/Meta Bind演示/Other/示例笔记/带嵌入的示例笔记.md"
+    },
+    {
+      "basename": "带标注的示例笔记",
+      "path": "示例/Meta Bind演示/Other/示例笔记/带标注的示例笔记.md"
+    },
+    {
+      "basename": "Templater按钮",
+      "path": "示例/Meta Bind演示/按钮/Templater按钮.md"
+    },
+    {
+      "basename": "替换按钮",
+      "path": "示例/Meta Bind演示/按钮/替换按钮.md"
+    },
+    {
+      "basename": "笔记内导航",
+      "path": "示例/Meta Bind演示/按钮/笔记内导航.md"
+    },
+    {
+      "basename": "按钮示例",
+      "path": "示例/Meta Bind演示/按钮/按钮示例.md"
+    },
+    {
+      "basename": "高级用例",
+      "path": "示例/Meta Bind演示/高级用例.md"
+    },
+    {
+      "basename": "Python数据分析",
+      "path": "示例/DB Folder演示/🎓 学习记录数据库/Python数据分析.md"
+    },
+    {
+      "basename": "UI设计原理",
+      "path": "示例/DB Folder演示/🎓 学习记录数据库/UI设计原理.md"
+    },
+    {
+      "basename": "项目管理方法",
+      "path": "示例/DB Folder演示/🎓 学习记录数据库/项目管理方法.md"
+    },
+    {
+      "basename": "JavaScript基础",
+      "path": "示例/DB Folder演示/🎓 学习记录数据库/JavaScript基础.md"
+    },
+    {
+      "basename": "王五",
+      "path": "示例/DB Folder演示/👥 联系人数据库/王五.md"
+    },
+    {
+      "basename": "李四",
+      "path": "示例/DB Folder演示/👥 联系人数据库/李四.md"
+    },
+    {
+      "basename": "数据分析系统",
+      "path": "示例/DB Folder演示/💼 项目任务数据库/数据分析系统.md"
+    },
+    {
+      "basename": "移动应用开发数据库",
+      "path": "示例/DB Folder演示/💼 项目任务数据库/移动应用开发数据库.md"
+    },
+    {
+      "basename": "用户体验优化",
+      "path": "示例/DB Folder演示/💼 项目任务数据库/用户体验优化.md"
+    },
+    {
+      "basename": "移动应用开发",
+      "path": "示例/DB Folder演示/💼 项目任务数据库/移动应用开发.md"
+    },
+    {
+      "basename": "README",
+      "path": "示例/DB Folder演示/README.md"
+    },
+    {
+      "basename": "团队协作看板",
+      "path": "示例/Kanban演示/团队协作看板.md"
+    },
+    {
+      "basename": "项目管理看板示例",
+      "path": "示例/Kanban演示/项目管理看板示例.md"
+    },
+    {
+      "basename": "学习计划看板",
+      "path": "示例/Kanban演示/学习计划看板.md"
+    },
+    {
+      "basename": "生活事务管理",
+      "path": "示例/Kanban演示/生活事务管理.md"
+    },
+    {
+      "basename": "README",
+      "path": "示例/Kanban演示/README.md"
+    },
+    {
+      "basename": "项目管理总视图",
+      "path": "示例/DataView演示/项目管理总视图.md"
+    },
+    {
+      "basename": "产品需求文档编写",
+      "path": "示例/DataView演示/任务数据/产品需求文档编写.md"
+    },
+    {
+      "basename": "README",
+      "path": "示例/DataView演示/README.md"
+    },
+    {
       "basename": "QuickAdd：自动化工具",
       "path": "Obsidian设置/Community plugins/QuickAdd：自动化工具.md"
     },
@@ -89,116 +197,8 @@
       "path": "示例/Charts演示/测试数据5.md"
     },
     {
-      "basename": "生活事务管理",
-      "path": "示例/Kanban演示/生活事务管理.md"
-    },
-    {
       "basename": "待办事项快速添加",
       "path": "示例/Quick Add演示/待办事项快速添加.md"
-    },
-    {
-      "basename": "README",
-      "path": "示例/Quick Add演示/README.md"
-    },
-    {
-      "basename": "基础图表示例",
-      "path": "示例/Charts演示/基础图表示例.md"
-    },
-    {
-      "basename": "习惯记录3",
-      "path": "示例/Charts演示/习惯记录3.md"
-    },
-    {
-      "basename": "习惯记录2",
-      "path": "示例/Charts演示/习惯记录2.md"
-    },
-    {
-      "basename": "习惯记录1",
-      "path": "示例/Charts演示/习惯记录1.md"
-    },
-    {
-      "basename": "README",
-      "path": "示例/Charts演示/README.md"
-    },
-    {
-      "basename": "测试数据1",
-      "path": "示例/Charts演示/测试数据1.md"
-    },
-    {
-      "basename": "插件设置说明",
-      "path": "示例/Charts演示/插件设置说明.md"
-    },
-    {
-      "basename": "学习计划看板",
-      "path": "示例/Kanban演示/学习计划看板.md"
-    },
-    {
-      "basename": "团队协作看板",
-      "path": "示例/Kanban演示/团队协作看板.md"
-    },
-    {
-      "basename": "Highlighter：高亮笔记内容",
-      "path": "Obsidian设置/Community plugins/Highlighter：高亮笔记内容.md"
-    },
-    {
-      "basename": "Homepage：建立精美主页",
-      "path": "Obsidian设置/Community plugins/Homepage：建立精美主页.md"
-    },
-    {
-      "basename": "Image Auto Upload",
-      "path": "Obsidian设置/Community plugins/Image Auto Upload.md"
-    },
-    {
-      "basename": "Importer：导入文件",
-      "path": "Obsidian设置/Community plugins/Importer：导入文件.md"
-    },
-    {
-      "basename": "Kanban：创建看板视图",
-      "path": "Obsidian设置/Community plugins/Kanban：创建看板视图.md"
-    },
-    {
-      "basename": "Linter：自动规范笔记",
-      "path": "Obsidian设置/Community plugins/Linter：自动规范笔记.md"
-    },
-    {
-      "basename": "Meta Bind：自动修改属性",
-      "path": "Obsidian设置/Community plugins/Meta Bind：自动修改属性.md"
-    },
-    {
-      "basename": "Minimal Theme Settings：Minimal主题帮手",
-      "path": "Obsidian设置/Community plugins/Minimal Theme Settings：Minimal主题帮手.md"
-    },
-    {
-      "basename": "Ominisearch：增强搜索功能",
-      "path": "Obsidian设置/Community plugins/Ominisearch：增强搜索功能.md"
-    },
-    {
-      "basename": "Outliner：增强大纲功能",
-      "path": "Obsidian设置/Community plugins/Outliner：增强大纲功能.md"
-    },
-    {
-      "basename": "Remember cursor position：一定要装！",
-      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
-    },
-    {
-      "basename": "Remotely Save：同步",
-      "path": "Obsidian设置/Community plugins/Remotely Save：同步.md"
-    },
-    {
-      "basename": "Templater：模板+自动化",
-      "path": "Obsidian设置/Community plugins/Templater：模板+自动化.md"
-    },
-    {
-      "basename": "Tag Wrangler：管理标签",
-      "path": "Obsidian设置/Community plugins/Tag Wrangler：管理标签.md"
-    },
-    {
-      "basename": "Style Settings：管理主题",
-      "path": "Obsidian设置/Community plugins/Style Settings：管理主题.md"
-    },
-    {
-      "basename": "Sheet Plus：编辑excel表格",
-      "path": "Obsidian设置/Community plugins/Sheet Plus：编辑excel表格.md"
     }
   ],
   "omittedPaths": [],
